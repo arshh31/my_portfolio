@@ -1,0 +1,150 @@
+.food-lunch_logo {
+    height: 110px;
+    width: 130px;
+}
+
+.bg-values {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    text-align: center;
+}
+
+.title {
+    color: white;
+    font-family: sans-serif;
+    font-size: 1.5rem;
+}
+
+.para_p1 {
+    color: white;
+    font-family: sans-serif;
+    font-size: 1rem;
+}
+
+.choose_title {
+    color: rgb(10, 10, 10);
+    font-size: 1.5rem;
+}
+
+.choose_para {
+    color: black;
+    font-size: 0.5rem;
+}
+
+.details-container {
+    text-align: center;
+    border-radius: 10px;
+    background-color: black;
+    margin: 5px;
+    padding: 10px;
+}
+
+.menu-container {
+    color: white;
+    border-radius: 10px;
+    background-color: black;
+    margin: 5px;
+    padding: 10px;
+}
+
+.wcu-images {
+    height: 90px;
+    width: 110px;
+}
+
+.menu-images {
+    border-radius: 10px;
+}
+
+.payment-container {
+    text-align: center;
+    background-color: aliceblue;
+}
+
+.payment-image {
+    height: 250px;
+    weight: 250px;
+}
+
+.payment_card-images {
+    height: 50px;
+    width: 50px;
+    margin: 8px;
+}
+
+.gift-title {
+    color: black;
+    font-size: 1.5rem;
+}
+
+.gift-discr {
+    color: black;
+    font-size: 0.8rem;
+}
+
+.gift-image {
+    height: 130px;
+    width: 130px;
+}
+
+.thanking-customers-section {
+    background-image: radial-gradient(#fff8db, #fae38c);
+}
+
+.follow-us-title {
+    color: black;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.icon-container {
+    height: 80px;
+    width: 80px;
+    border-radius: 40px;
+    padding-top: 22px;
+    padding-left: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    background-color: #faf7e8;
+    margin: 15px;
+}
+
+.icon {
+    font-size: 35px;
+    color: #d0b200;
+}
+
+.footer-section {
+    background-color: black;
+    text-align: center;
+    width: 100vw;
+}
+
+.footer-head {
+    color: aliceblue;
+    font-size: 1rem;
+}
+
+.footer-para {
+    color: aliceblue;
+    font-size: 0.5rem;
+}
+
+.standard-button {
+    color: white;
+    background-color: #d0b200;
+    padding: 15px 32px;
+    border-width: 0px;
+    border-radius: 8px;
+}
+
+.standard-button_2 {
+    color: white;
+    background-color: transparent;
+    padding: 15px 32px;
+    border-width: 1px;
+    border-radius: 8px;
+    border-color: #d0b200;
+}
